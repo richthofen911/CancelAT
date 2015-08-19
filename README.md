@@ -3,4 +3,5 @@
 2. call Activity's method from attached fragment
 3. anonymous AsyncTask
 4. iterate JSONObject with 'for' loop
-5. global local file
+5. use android Volley framework
+6. global local file
